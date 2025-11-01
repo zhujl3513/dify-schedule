@@ -7,12 +7,12 @@ on:
 
 env:
   DIFY_TOKENS: ${{ secrets.DIFY_TOKENS }}
-  DIFY_BASE_URL: ${{ secrets.DIFY_BASE_URL }}
+  DIFY_BASE_URL: ${{ secrets.app-L0Qs4WQeF3CW0qmNl3JZ2gMx }}
   DIFY_INPUTS: ${{ secrets.DIFY_INPUTS }}
   EMAIL_USER: ${{ secrets.EMAIL_USER }}
   EMAIL_PASS: ${{ secrets.EMAIL_PASS }}
   EMAIL_TO: ${{ secrets.EMAIL_TO }}
-  DINGDING_WEBHOOK: ${{ secrets.DINGDING_WEBHOOK }}
+  DINGDING_WEBHOOK: ${{ secrets.e3f369758f1b1693e614528427e8f80e2b4c1023437ba821c772c8133ba216fd }}
   PUSHPLUS_TOKEN: ${{ secrets.PUSHPLUS_TOKEN }}
   WEIXIN_WEBHOOK: ${{ secrets.WEIXIN_WEBHOOK }}
   SERVERPUSHKEY: ${{ secrets.SERVERPUSHKEY }}
